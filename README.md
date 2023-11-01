@@ -5,19 +5,29 @@ This repository contains an analysis of the effects of COVID-19 on trade trends 
 
 ![Overall Trade Trend](REFER -> overall_trade_trend.png)
                                 Fig 1: Overall Trade Trend
+![overall_trade_trend](https://github.com/mridulbagra/Python-COVID-19-Trade-Impact-Data-Analysis/assets/89296921/521bc0f6-4960-4647-a938-16e491e068f3)
 
 
 ![Exports vs. Imports](REFER -> exports_vs_imports.png)
-                                Fig 2: Exports vs. Imports             
+                                Fig 2: Exports vs. Imports  
+                                ![exports_vs_imports](https://github.com/mridulbagra/Python-COVID-19-Trade-Impact-Data-Analysis/assets/89296921/b47388df-ec94-4bce-a0f7-a6121e87a56b)
+
 
 ![Top Commodities Affected](REFER -> top_commodities_affected.png)
                                 Fig 3: Top Commodities Affected          
+![top_commodities_affected](https://github.com/mridulbagra/Python-COVID-19-Trade-Impact-Data-Analysis/assets/89296921/24d7b912-749a-409c-bdf0-9f8b67b60e44)
+
 
 ![Transport Mode Analysis](REFER -> transport_mode_analysis.png)
                                 Fig 4: Transport Mode Analysis  
+![transport_mode_analysis](https://github.com/mridulbagra/Python-COVID-19-Trade-Impact-Data-Analysis/assets/89296921/1df631bc-12d0-4544-8a4a-8fe62830b85a)
+
 
 ![Country Analysis](REFER -> transport_mode_analysis.png)
                                  Fig 5: Country Analysis 
+![country_analysis](https://github.com/mridulbagra/Python-COVID-19-Trade-Impact-Data-Analysis/assets/89296921/0ba772f5-1aa9-4444-aefb-c21123688b77)
+
+                                 
 ## Dataset
 
 The dataset, "Effects of COVID-19 on trade: At 15 December 2021 (provisional)", contains columns indicating trade direction (imports/exports), date, country, commodity type, transport mode, and trade values.
